@@ -22,6 +22,8 @@ Formfunction's code can be found in these repositories:
 - [Formfunction Campaign Treasury Manager](https://github.com/formfunction-hq/formfunction-campaign-treasury-manager)—Unfinished implementation of treasury management for campaigns.
 - [Formfunction Candy Machine](https://github.com/formfunction-hq/formfunction-candy-machine)—A fork of Metaplex's Candy Machine that adds the ability to use a Merkle allowlist.
 
+Product videos demonstrating the product can be found [here](https://www.youtube.com/playlist?list=PLaa5ShwHbvIStYqz7XaaQFIfSAs7XNK_l).
+
 ## Resources
 
 - [How to Build a Solana NFT Marketplace](how-to-build-a-solana-nft-marketplace.md)
